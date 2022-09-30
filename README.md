@@ -11,5 +11,5 @@ User is able to load a new quote on a button 'New Quote" click.
 
 User is able to tweet the quote if he liked it on a 'Twitter' button click.
 
-##Output
+## Output
 ![2022-09-30 (1)](https://user-images.githubusercontent.com/108679567/193216170-5285242c-11ad-4d32-9022-3b781d328a14.png)
